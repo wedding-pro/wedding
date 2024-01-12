@@ -148,7 +148,7 @@ p{
 }
 .Equipment-col{
     flex-basis: 31%;
-    background:red;
+    background:#ff0000;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
